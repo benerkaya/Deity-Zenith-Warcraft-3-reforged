@@ -4,5 +4,5 @@ Download map files then put them in maps folder inside your Warcraft 3 Reforged 
 How to use guide is on mod website
 https://sites.google.com/view/deityzenith/wc3-reforged
 
-Download Campaign maps from here
+Download campaign maps from here
 https://drive.google.com/file/d/1dOnmF7ishGOnYuBriIe98RmAVMzwOHEC/view?usp=sharing
